@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
-public class EcuelaTest {
+public class EscuelaTest {
 
     @Test
     public void buscarEstudianteTest(){
